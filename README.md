@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amir Hossein, also known as Sa'adat</h1>
-<h3 align="center">I'm a Machine Learning and back-end programmer.</h3>
+<h1 align="center">Hi 👋, I'm Amir Hossein</h1>
+<h3 align="center">I'm a Machine Learning Engineer and also a back-end programmer.</h3>
 
 - 🔭 I’m currently working on **a Web Scrapping project**
 
